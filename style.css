@@ -67,7 +67,7 @@ header img {
 .navbar {
     background-image: url(Images/baiyun-amidst-the-serene-blue-sky-page-border-background-word-template_7f1f5eaa56__1131_1600.avif);
     background-repeat: no-repeat;
-    height: 600px;
+    height: 650px;
     width: 315px;
     margin-right: 7px;
     border-radius: 5px;
@@ -76,13 +76,13 @@ header img {
 }
 
 .navbar .img_1 {
-    width: 100px;
-    height: 100px;
-    margin-left: 121px;
+    width: 150px;
+    height: 150px;
+    margin-left: 65px;
 }
 
 .navbar .img_2 {
-    margin-left: 90px;
+    margin-left: 60px;
 }
 
 .navbar a {
@@ -112,7 +112,7 @@ header img {
 
 .page {
     background-color: #ffe;
-    height: 600px;
+    height: 650px;
     width: 745px;
     margin-top: 7px;
     border-radius: 5px;
@@ -132,15 +132,20 @@ header img {
     height: 500px;
 }
 
+div .yume {
+    position: absolute;
+    bottom: 0px;
+    right: 40px;
+}
+
 .article {
     border-radius: 5px;
     border: 5px double #00b7ff;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
     margin-top: 160px;
-    margin-left: 7px;
-    margin-right: 15px;
+    margin-right: 10px;
     margin-bottom: 7px;
-    width: 470px;
+    width: 450px;
     overflow: hidden;
     overflow-y: auto;
 }
@@ -164,7 +169,7 @@ header img {
     border: 5px double #00b7ff;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
     margin-top: 160px;
-    height: 200px;
+    height: 250px;
     width: 250px;
 }
 
