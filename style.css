@@ -121,12 +121,13 @@ header img {
     display: flex;
     justify-content: center;
     margin-bottom: 7px;
+    position: relative;
 }
 
 .page .page_img {
     position: absolute;
-    top: 110px;
-    left: 450px;
+    top: -179px;
+    left: -40px;
     width: 800px;
     height: 500px;
 }
