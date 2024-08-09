@@ -203,4 +203,21 @@ footer {
     background-image: url(Images/rbowlinebg.gif);
     display: flex;
     align-items: center;
+    justify-content: center;
+}
+
+.player {
+    position: fixed;
+    bottom: 10px;
+    left: 0px;
+}
+
+.player img {
+    width: 100px;
+    height: 100px;
+}
+
+audio {
+    width: 200px;
+    height: 50px;
 }
