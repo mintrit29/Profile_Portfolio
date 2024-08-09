@@ -171,6 +171,8 @@ div .yume {
     margin-top: 160px;
     height: 250px;
     width: 250px;
+    overflow: hidden;
+    overflow-y: auto;
 }
 
 .update {
