@@ -108,7 +108,7 @@ header img {
 .navbar a {
     display: flex;
     flex-direction: column;
-    background-color: #F5EDED;
+    background: linear-gradient(to right, #e6f1ff, hsl(341, 100%, 95%));
     border-radius: 20px;
     border: 5px double #6482AD;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
@@ -269,7 +269,7 @@ audio {
 .navbar_about a {
     display: flex;
     flex-direction: column;
-    background-color: #F5EDED;
+    background: linear-gradient(to right, #e6f1ff, hsl(341, 100%, 95%));
     border-radius: 20px;
     border: 5px double #6482AD;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
@@ -394,7 +394,7 @@ audio {
 .navbar_service a {
     display: flex;
     flex-direction: column;
-    background-color: #F5EDED;
+    background: linear-gradient(to right, #e6f1ff, hsl(341, 100%, 95%));
     border-radius: 20px;
     border: 5px double #6482AD;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
@@ -498,7 +498,7 @@ audio {
 .navbar_music a {
     display: flex;
     flex-direction: column;
-    background-color: #F5EDED;
+    background: linear-gradient(to right, #e6f1ff, hsl(341, 100%, 95%));
     border-radius: 20px;
     border: 5px double #6482AD;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
@@ -592,7 +592,7 @@ audio {
 .navbar_game a {
     display: flex;
     flex-direction: column;
-    background-color: #F5EDED;
+    background: linear-gradient(to right, #e6f1ff, hsl(341, 100%, 95%));
     border-radius: 20px;
     border: 5px double #6482AD;
     box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
