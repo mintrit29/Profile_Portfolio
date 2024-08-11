@@ -15,23 +15,6 @@
     --introduction-text-color: #5daef0;
 }
 
-body.dark {
-        --background-color: #c9e7ff;
-    --scrollbar-thumb-color: #A2D5F2;
-    --scrollbar-track-color: #f0f0f0;
-    --header-border-color: #6482AD;
-    --marquee-bg-color: #c9e7ff;
-    --marquee-text-color: #00b7ff;
-    --navbar-bg-color: #e6f1ff;
-    --navbar-border-color: #6482AD;
-    --navbar-text-color: #5daef0;
-    --navbar-hover-color: #bfdaff;
-    --page-bg-color: #ffe;
-    --article-border-color: #00b7ff;
-    --introduction-border-color: #b9dfff;
-    --introduction-text-color: #5daef0;
-}
-
 body {
     background-image: url(Images/cloud.gif);
     background-color: var(--background-color);
